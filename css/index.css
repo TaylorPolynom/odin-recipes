@@ -1,0 +1,25 @@
+
+#container{
+    border: 2px solid black;
+    text-align: center;
+    background-color: yellow;
+    
+}
+/*
+#container li a{
+    background-color: white;
+   
+}
+*/
+a:hover{
+    font-family: Monospace;
+    text-decoration: none;
+    font-size: 25px;
+    color: purple;
+}
+
+h1{
+ text-align: center;   
+ color: black;
+}
+
